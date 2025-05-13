@@ -1,0 +1,9 @@
+{
+    "who am i": "try:\n    speak('You are my master, the creator and controller of my abilities.')\nexcept Exception as e:\n    speak(f'Sorry, I encountered an error: {e}')",
+    "time": "import time; print(time.strftime('%Y-%m-%d %H:%M:%S'))",
+    "exit": "import sys; sys.exit(0)",
+    "bark like a dog": "speak('woof woof')",
+    "open youtube": "import webbrowser; webbrowser.open(\"https://www.youtube.com\")",
+    "hello jarvis": "speak('hello Sir')",
+    "whats name of ur creator": "speake('Sir, u are my creator  Sir Nimar')"
+}
